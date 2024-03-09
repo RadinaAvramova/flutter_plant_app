@@ -1,2 +1,1 @@
-# flutter_plant_app
-flutter_plant_app
+# Flutter Plant App
